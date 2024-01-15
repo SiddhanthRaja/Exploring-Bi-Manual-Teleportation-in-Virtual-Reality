@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "244141381244",
+    "firebase_url": "https://vr-teleportation-ovi-default-rtdb.firebaseio.com",
+    "project_id": "vr-teleportation-ovi",
+    "storage_bucket": "vr-teleportation-ovi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244141381244:android:e767eb05afe02ea68bdbf9",
+        "android_client_info": {
+          "package_name": "com.ubcohci.VRHTNAVIGATION"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTt5CXJIrKedIK8NH_mRMUUKwqmFv_87Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
